@@ -1,0 +1,27 @@
+URxvt.font: xft:Hack:size=20:antialias=true:hinting=true
+URxvt.scrollBar: false
+
+! Extensions
+URxvt.perl-ext-common:  ...,resize-font,...
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+
+! Colors
+URxvt*background: #2e3440
+URxvt*foreground: #d8dee9
+URxvt*color0: #3b4252
+URxvt*color1: #bf616a
+URxvt*color2: #a3be8c
+URxvt*color3: #ebcb8b
+URxvt*color4: #81a1c1
+URxvt*color5: #b48ead
+URxvt*color6: #88c0d0
+URxvt*color7: #e5e8f0
+URxvt*color8: #4c566a
+URxvt*color9: bf616a
+URxvt*color10: #a3be8c
+URxvt*color11: #ebcb8b
+URxvt*color12: #81a1c1
+URxvt*color13: #b48ead
+URxvt*color14: #8fbcbb
+URxvt*color15: #eceff4
